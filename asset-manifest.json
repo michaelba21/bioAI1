@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/innovatech-solutions/static/css/main.0394f2a3.css",
+    "main.js": "/innovatech-solutions/static/js/main.00fdb253.js",
+    "static/js/453.b71a44f7.chunk.js": "/innovatech-solutions/static/js/453.b71a44f7.chunk.js",
+    "index.html": "/innovatech-solutions/index.html",
+    "main.0394f2a3.css.map": "/innovatech-solutions/static/css/main.0394f2a3.css.map",
+    "main.00fdb253.js.map": "/innovatech-solutions/static/js/main.00fdb253.js.map",
+    "453.b71a44f7.chunk.js.map": "/innovatech-solutions/static/js/453.b71a44f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0394f2a3.css",
+    "static/js/main.00fdb253.js"
+  ]
+}
